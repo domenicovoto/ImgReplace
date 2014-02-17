@@ -3,7 +3,7 @@ ImgReplace
 
 Mac Image Replace
 
-With this program you can replace the images in a folder in a  simple way. Selecte the source directory and the destination.
+With this program you can replace the images in a folder in a  simple way. Select the source directory and the destination.
 You can also add a prefix to your images and replace the retina images (@2x) with a click.
 
 Use for Xcode project or for other reason.
